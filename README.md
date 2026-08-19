@@ -14,4 +14,5 @@ Mapa przedstawia rozmieszczenie parkingów MOP (Miejsce Obsługi Podróżnych) n
 Projekt został wykonany w programie ArcMap 10.8.
 Dane zostały uzyskane z takich źródeł jak OpenStreetMap (sieć dróg ekspresowych i autostrad), Google Maps (informacje o działających na parkingach lokalach komercyjnych, badanie terenu MOP za pomocą Street View), GDDKiA (wykaz istniejących parkingów MOP, stan na maj 2023), geoportal.gov.pl (Ortofotomapa).
 
+# Jak uruchomić projekt?
 Aby uruchomić projekt należy pobrać to repozytorium, rozpakować archiwum i uruchomić plik: projekt.mxd (ArcMap) lub projekt.mpk (ArcMap/QGIS).
